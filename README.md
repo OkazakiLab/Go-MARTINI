@@ -10,3 +10,7 @@ First, clone or download the repository,
 git clone https://github.com/OkazakiLab/Go-MARTINI.git
 cd Go-MARTINI/
 ```
+## Usage
+```
+python2.7 
+```
