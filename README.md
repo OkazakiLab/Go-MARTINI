@@ -12,5 +12,5 @@ cd Go-MARTINI/
 ```
 ## Usage
 ```
-python2.7 
+python2.7 go_martinize_MPO.py -f 3hah_dimer1-CA.pdb -o 3hah_dimer1-CA.top -x 3hah_dimer1-CA-GoCG.pdb -dssp /usr/bin/dssp -p backbone -ff elnedyn22 -go -goepsilon 6.276
 ```
