@@ -8,5 +8,5 @@ It uses a new cutoff scheme to define native contacts of proteins [Mahmood, Poma
 First, clone or download the repository,
 ```
 git clone https://github.com/OkazakiLab/Go-MARTINI.git
-cd diffusion_1D_multistate/
+cd Go-MARTINI/
 ```
