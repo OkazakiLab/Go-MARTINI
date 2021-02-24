@@ -1,8 +1,9 @@
-# Go-MARTINI
+# Gō-MARTINI
 
-The modified script to construct a Go-MARTINI system. For the original version, please see http://info.ifpan.edu.pl/~panos/panos/GoMartini.html
+The modified script to construct a Gō-MARTINI system. For the original version, please see http://info.ifpan.edu.pl/~panos/panos/GoMartini.html
 
-It uses a new cutoff scheme to define native contacts of proteins [Mahmood, Poma and Okazaki, Submitted].
+It uses a new cutoff scheme to define native contacts of proteins [Mahmood, Poma and Okazaki, Front. Mol. Biosci. (2021) https://doi.org/10.3389/fmolb.2021.619381
+].
 
 ## Usage
 First, clone or download the repository,
